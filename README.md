@@ -10,3 +10,5 @@ from Python via a Dynamic Link Library for use with other python applications fo
 The volume of the app on the left is crossfaded with the volume of the app of the right. \
 There are more scenarios for balancing audio etc. which requires modification of the code. \
 Please do so responsibly.
+
+![screenshot2](/screenshot2.png)
